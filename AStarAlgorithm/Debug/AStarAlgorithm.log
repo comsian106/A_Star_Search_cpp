@@ -1,0 +1,4 @@
+﻿  AStarSearch.cpp
+C:\Users\Tauseef Ahmed\Desktop\Practice\C++Programming_Prcatices\AStarAlgorithm\AStarAlgorithm\AStarSearch.cpp(145,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Tauseef Ahmed\Desktop\Practice\C++Programming_Prcatices\AStarAlgorithm\AStarAlgorithm\AStarSearch.cpp(146,32): warning C4018:  '<': signed/unsigned mismatch
+  AStarAlgorithm.vcxproj -> C:\Users\Tauseef Ahmed\Desktop\Practice\C++Programming_Prcatices\AStarAlgorithm\Debug\AStarAlgorithm.exe
